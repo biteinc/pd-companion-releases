@@ -11,7 +11,7 @@
             <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
             <pubDate>Tue, 31 Mar 2026 19:59:10 +0000</pubDate>
             <enclosure
-                url="https://github.com/biteinc/pd-companion/releases/download/v3.3.0/PDSlackReader-v3.3.0.dmg"
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v3.3.0/PDSlackReader-v3.3.0.dmg"
                 sparkle:version="7"
                 sparkle:shortVersionString="3.3.0"
                 length="2854287"
@@ -24,7 +24,7 @@
             <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
             <pubDate>Tue, 31 Mar 2026 01:56:05 +0000</pubDate>
             <enclosure
-                url="https://github.com/biteinc/pd-companion/releases/download/v3.2.0/PDSlackReader-v3.2.0.dmg"
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v3.2.0/PDSlackReader-v3.2.0.dmg"
                 sparkle:version="6"
                 sparkle:shortVersionString="3.2.0"
                 length="2853775"
@@ -37,7 +37,7 @@
             <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
             <pubDate>Tue, 31 Mar 2026 01:48:37 +0000</pubDate>
             <enclosure
-                url="https://github.com/biteinc/pd-companion/releases/download/v3.1.1/PDSlackReader-v3.1.1.dmg"
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v3.1.1/PDSlackReader-v3.1.1.dmg"
                 sparkle:version="5"
                 sparkle:shortVersionString="3.1.1"
                 length="2553522"
@@ -50,7 +50,7 @@
             <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
             <pubDate>Tue, 31 Mar 2026 01:34:42 +0000</pubDate>
             <enclosure
-                url="https://github.com/biteinc/pd-companion/releases/download/v3.1.0/PDSlackReader-v3.1.0.dmg"
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v3.1.0/PDSlackReader-v3.1.0.dmg"
                 sparkle:version="4"
                 sparkle:shortVersionString="3.1.0"
                 length="2842300"
@@ -63,7 +63,7 @@
             <sparkle:shortVersionString>3.0.1</sparkle:shortVersionString>
             <pubDate>Tue, 31 Mar 2026 01:22:16 +0000</pubDate>
             <enclosure
-                url="https://github.com/biteinc/pd-companion/releases/download/v3.0.1/PDSlackReader-v3.0.1.dmg"
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v3.0.1/PDSlackReader-v3.0.1.dmg"
                 sparkle:version="3"
                 sparkle:shortVersionString="3.0.1"
                 length="2829090"
@@ -76,7 +76,7 @@
             <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <pubDate>Mon, 30 Mar 2026 22:49:04 +0000</pubDate>
             <enclosure
-                url="https://github.com/biteinc/pd-companion/releases/download/v3.0.0/PDSlackReader-v3.0.0.dmg"
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v3.0.0/PDSlackReader-v3.0.0.dmg"
                 sparkle:version="2"
                 sparkle:shortVersionString="3.0.0"
                 length="2820198"
