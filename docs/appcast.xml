@@ -6,6 +6,20 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 4.5.6</title>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>4.5.6</sparkle:shortVersionString>
+            <pubDate>Wed, 08 Apr 2026 11:49:39 +0000</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v4.5.6/PDCompanion-v4.5.6.dmg"
+                sparkle:version="39"
+                sparkle:shortVersionString="4.5.6"
+                sparkle:edSignature="V6aqe2/uhxLOQSeOl8pz2aJYKo9m6gZhENlzkXt2J2Fo+3/owULf1uF22Bmde8RvC3Vi+homCZNFzd44yn69Cw=="
+                length="5795406"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 4.5.5</title>
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>4.5.5</sparkle:shortVersionString>
