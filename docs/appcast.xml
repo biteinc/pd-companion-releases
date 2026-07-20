@@ -6,6 +6,20 @@
         <description>PD Companion update feed</description>
         <language>en</language>
 <item>
+    <title>Version 8.10.2</title>
+    <sparkle:version>116</sparkle:version>
+    <sparkle:shortVersionString>8.10.2</sparkle:shortVersionString>
+    <pubDate>Mon, 20 Jul 2026 18:50:18 +0000</pubDate>
+    <enclosure
+        url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.10.2/PDCompanion-v8.10.2.dmg"
+        sparkle:version="116"
+        sparkle:shortVersionString="8.10.2"
+        sparkle:edSignature="z9lRWGW2n4UINaDeCAkKQOWKca+8Fikd4Y4BRIxRb06lvt2ZikdkeaJQXglpy5hOikRsGkeC9l67Z/bOkmsxAw=="
+        length="8566967"
+        type="application/octet-stream"
+    />
+</item>
+<item>
     <title>Version 8.10.1</title>
     <sparkle:version>115</sparkle:version>
     <sparkle:shortVersionString>8.10.1</sparkle:shortVersionString>
