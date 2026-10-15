@@ -6,6 +6,16 @@
         <description>PD Slack Reader update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.28</title>
+            <sparkle:version>136</sparkle:version>
+            <sparkle:shortVersionString>8.11.28</sparkle:shortVersionString>
+            <pubDate>Thu, 15 Oct 2026 16:12:30 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.28/PDSlackReader-v8.11.28.dmg"
+                sparkle:edSignature="PkZUct8sjNZLRaYQL1Uw2y9T+qL+I4p1MpB3ZEkThBRZYPep+VhPFRPc7fc6AOITYtOwYzhYNnbLikAeOdVMBw==" length="4586544"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.27</title>
             <sparkle:version>135</sparkle:version>
             <sparkle:shortVersionString>8.11.27</sparkle:shortVersionString>
