@@ -6,6 +6,16 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.33</title>
+            <sparkle:version>158</sparkle:version>
+            <sparkle:shortVersionString>8.11.33</sparkle:shortVersionString>
+            <pubDate>Thu, 15 Oct 2026 22:35:19 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.33/PDCompanion-v8.11.33.dmg"
+                sparkle:edSignature="P/IqjcqPJ5tInF88tYuzwNagDLvMCWTJLIK5zVAsTz2O+JvD7p3cY1staCDBRXVPfLRcgYhHRRMiz3qCht1lAA==" length="10541502"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.32</title>
             <sparkle:version>157</sparkle:version>
             <sparkle:shortVersionString>8.11.32</sparkle:shortVersionString>
