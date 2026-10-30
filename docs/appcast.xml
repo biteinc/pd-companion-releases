@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.46</title>
+            <sparkle:version>171</sparkle:version>
+            <sparkle:shortVersionString>8.11.46</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What's new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Choose Echo V1–V6 for either voice. V4 remains the default.</p><p>Tin Man’s eyes distinguish waiting, listening, thinking, speaking with the microphone muted, and connection errors. The wake-word hint is removed.</p><h2>What's fixed</h2><p>Tin Man mutes its microphone while speaking and resumes immediately afterward, preventing its own voice from causing repeated words or restarted replies.</p><p>Replies are shorter and conversational, with spoken progress during investigations. Nonsensical follow-ups are ignored silently. Additional speech can still guide Tin Man while it is thinking.</p><p>First-question and repeated voice setup delays are reduced. Audio recovery preserves the AI task and text answer without replaying completed clips.</p><p>Voice Assistant remains off by default and supports one paired iPad at a time.</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 18:47:58 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.46/PDCompanion-v8.11.46.dmg"
+                sparkle:edSignature="yg0pIwK/vGxoWm668wSka+nmRjdn+v/Vko/AMmlXZMVz5lj/g4/0sL0OZRkWJ8cG97gFa+OF5un8pRvLM0jzDA==" length="60785795"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.45</title>
             <sparkle:version>170</sparkle:version>
             <sparkle:shortVersionString>8.11.45</sparkle:shortVersionString>
