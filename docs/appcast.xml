@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.43</title>
+            <sparkle:version>168</sparkle:version>
+            <sparkle:shortVersionString>8.11.43</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What's new</h2><p><strong>Voice Assistant (Experimental Beta):</strong> A new Echo switch adds an echo to Cedar or Fable. Echo is on by default; Fable keeps its natural, non-metallic voice.</p><p><strong>Office iPad:</strong> Tin Man keeps its eyes open during voice conversations and gently looks around when nobody is visible, then follows a face when someone appears.</p><h2>What's fixed</h2><p><strong>Office iPad:</strong> Unpaired and disconnected warnings use a soft orange theme and a smaller, separate notice, keeping conversation text readable.</p><p>Voice Assistant remains off by default and supports one paired iPad at a time.</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 09:37:39 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.43/PDCompanion-v8.11.43.dmg"
+                sparkle:edSignature="5+r5A4Y8z7BBrUkdRaI3W+kEX/gbhF7p+Pmyg4NyvvbdZuIAFgp3w3JUiQg8gP8CL7O08I5Q/NEF26OThBAZAw==" length="60738674"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.42</title>
             <sparkle:version>167</sparkle:version>
             <sparkle:shortVersionString>8.11.42</sparkle:shortVersionString>
