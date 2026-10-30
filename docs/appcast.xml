@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.45</title>
+            <sparkle:version>170</sparkle:version>
+            <sparkle:shortVersionString>8.11.45</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What's new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Tin Man on iPad discovers and pairs with PD Companion on the local network, including after the Mac app restarts.</p><p>Voice Assistant settings show the Mac’s address and have a separate Save API key button. Encrypted settings backups include the saved voice key.</p><h2>What's fixed</h2><p>Older backups restore the correct voice key. Saving a key refreshes the iPad’s setup warning promptly, and voice can still be switched off if its saved key cannot be read.</p><p>Voice Assistant remains off by default and supports one iPad at a time.</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 15:19:30 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.45/PDCompanion-v8.11.45.dmg"
+                sparkle:edSignature="0gCR+1VfSb01QKB/bcQZZmiCLGZfjz0UibirnB2iZnWmuerCUb5H/pzqekbscNum/uLq83s2oQBhKaSVpVzBAw==" length="60758614"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.44</title>
             <sparkle:version>169</sparkle:version>
             <sparkle:shortVersionString>8.11.44</sparkle:shortVersionString>
