@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.48</title>
+            <sparkle:version>173</sparkle:version>
+            <sparkle:shortVersionString>8.11.48</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What's new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> An optional boss Easter egg can appear on the office iPad when a question matches a topic such as Halloween costumes, with moving human-like eyes and an animated talking mouth.</p><p>Show or hide the avatar manually in authenticated iPad debug Settings. Normal voice answers continue while the optional topic check runs.</p><p>Configure the voice trigger in Voice Assistant settings; encrypted settings backups preserve these preferences with the rest of the voice settings.</p><p>Voice Assistant and its automatic Easter egg are off by default.</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 20:57:11 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.48/PDCompanion-v8.11.48.dmg"
+                sparkle:edSignature="nelFCu/fAI7VZ3JwO3gbQSE4cuurbyq5n8GSnfKkn/z1gTb/JCx0PBXTHpYapikJEDgMCfr3u6aLnLK4RFBzCA==" length="60848914"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.47</title>
             <sparkle:version>172</sparkle:version>
             <sparkle:shortVersionString>8.11.47</sparkle:shortVersionString>
