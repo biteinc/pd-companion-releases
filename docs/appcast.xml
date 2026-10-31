@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.47</title>
+            <sparkle:version>172</sparkle:version>
+            <sparkle:shortVersionString>8.11.47</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What's new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> A bare Hey Tin Man gets I’m listening. Configure the wake pause and unanswered-summon quiet timeout, defaulting to 1 and 10 seconds.</p><p>Conversations stay open until you say you are done, with recent context remembered until an hour of inactivity.</p><p>See one current sentence: green You captions while speaking English, and pink Tin Man captions with the matching speech. Add Dictation notes for often-misheard names and words; all voice settings are included in encrypted backups.</p><p>Thinking eyes gently look up and down. Wake-only speech flashes red bars and a temporary top wake hint.</p><h2>What's fixed</h2><p>Slower questions get a short spoken acknowledgement. Subtitles no longer reveal future replies or whole long answers at once. Brief reconnections preserve recent context, and delayed cues cannot cut off a new question or arrive after its answer.</p><p>Voice Assistant remains off by default.</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 20:22:07 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.47/PDCompanion-v8.11.47.dmg"
+                sparkle:edSignature="gg3wc2LyOR6Mb9mLLe1Hw9BUqdTz/pXS269N8xxK4LaLXAMIxXmFj+F8JqywO9o7BhVF5CXnk7SbOF87f7BSAw==" length="60786385"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.46</title>
             <sparkle:version>171</sparkle:version>
             <sparkle:shortVersionString>8.11.46</sparkle:shortVersionString>
