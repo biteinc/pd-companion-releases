@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.53</title>
+            <sparkle:version>178</sparkle:version>
+            <sparkle:shortVersionString>8.11.53</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Tin Man now says goodbye and returns to wake-only listening after 15 seconds without a useful follow-up. Change the delay in Voice Assistant settings.</p><p>Work, dictation and spoken answers finish before sleeping; background chatter does not restart the timer. Say Hey Tin Man within an hour to continue the same conversation. Voice Assistant remains off by default.</p>]]></description>
+            <pubDate>Sat, 31 Oct 2026 12:24:30 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.53/PDCompanion-v8.11.53.dmg"
+                sparkle:edSignature="9nJEFOI4CK7sIF1KwlYs4fbZabH5hqM8R1p9UWi3KvLrhe+3x0ukiwZFJy7jpCy9I+UoRxn5va504cLxnh3fDw==" length="62333444"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.52</title>
             <sparkle:version>177</sparkle:version>
             <sparkle:shortVersionString>8.11.52</sparkle:shortVersionString>
