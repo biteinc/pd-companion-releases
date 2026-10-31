@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.51</title>
+            <sparkle:version>176</sparkle:version>
+            <sparkle:shortVersionString>8.11.51</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> The updated office iPad app adds short wake and sleep confirmation sounds.</p><p>Choose when a varied wait message plays, with a default of three seconds before the first session update. Any real update or answer immediately replaces the wait message while Tin Man keeps working.</p><p>Clearer timing labels and examples explain when speech is captured, sent and put back to sleep. Voice Assistant remains off by default.</p>]]></description>
+            <pubDate>Fri, 30 Oct 2026 23:18:25 -0400</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.51/PDCompanion-v8.11.51.dmg"
+                sparkle:edSignature="38K4RxZVYip5XO0bN1C3yyEfSL2jsu9oHRKAAIdPm4jJVOH+1aXscDLEnJTCUnYvEwpzbM8xcYHwDbu7cLuiDw==" length="60865832"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.50</title>
             <sparkle:version>175</sparkle:version>
             <sparkle:shortVersionString>8.11.50</sparkle:shortVersionString>
