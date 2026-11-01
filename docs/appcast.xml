@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.60</title>
+            <sparkle:version>185</sparkle:version>
+            <sparkle:shortVersionString>8.11.60</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Tin Man now uses local text recognition alongside camera photos to help read cards and labels that it previously described as unreadable. If you speak while a photo is being read, Tin Man waits for you to finish so your correction can take priority.</p><p>The text-reading aid may need about a minute to warm up on first use on some Macs; Tin Man continues using the photo meanwhile. Voice Assistant remains experimental and off by default.</p>]]></description>
+            <pubDate>Sun, 01 Nov 2026 13:41:10 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.60/PDCompanion-v8.11.60.dmg"
+                sparkle:edSignature="j8sjjp/x4C1N/9j4dSaXkmimDooY1T50DEdBYSuHKilR805XVEA+15ZlYNNbHKlnr/OAPkoqYI0EC4XMW49NBA==" length="62561135"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.59</title>
             <sparkle:version>184</sparkle:version>
             <sparkle:shortVersionString>8.11.59</sparkle:shortVersionString>
