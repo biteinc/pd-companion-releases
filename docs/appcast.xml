@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.58</title>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>8.11.58</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Review a large photo preview before Tin Man uses it. Accept it immediately or let the three-second countdown finish; Retry repeats the spoken countdown and takes another photo. The accepted picture temporarily replaces the eyes while Tin Man answers.</p><h2>What’s fixed</h2><p>Saving the voice-triggered boss avatar setting off now restores normal eyes and blocks old triggers from returning.</p><p>These changes require the updated Tin Man iPad app. Voice Assistant remains experimental and off by default. Intermittent “no photo” replies remain under investigation.</p>]]></description>
+            <pubDate>Sun, 01 Nov 2026 11:48:27 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.58/PDCompanion-v8.11.58.dmg"
+                sparkle:edSignature="oOwYYrThOQL+9ucCTl2lpTLzg3g95EyAIGR7gaZgLKWSB+t9fsg3Ca+bJtQ95U/jAmIKYpkbRilgHhHl5it1DA==" length="62492617"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.56</title>
             <sparkle:version>181</sparkle:version>
             <sparkle:shortVersionString>8.11.56</sparkle:shortVersionString>
