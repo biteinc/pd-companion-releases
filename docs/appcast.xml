@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.56</title>
+            <sparkle:version>181</sparkle:version>
+            <sparkle:shortVersionString>8.11.56</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Save diagnostic logs from Settings to investigate photo-delivery problems. The export excludes photos, recordings, conversation text and credentials.</p><h2>What’s fixed</h2><p>Tin Man iPad no longer crashes at the end of the photo countdown; this requires the separate iPad app update.</p><p>Intermittent “no photo” replies remain under investigation. Voice Assistant remains experimental and off by default.</p>]]></description>
+            <pubDate>Sun, 01 Nov 2026 10:45:09 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.56/PDCompanion-v8.11.56.dmg"
+                sparkle:edSignature="S0VfOwpI2vkkIh/DnxkRj14WWF8VP/SlP+jeI2SM/tDdLPK/EsmWxHpHPWC2wpEfuXesV0fUkm+wx5sP6mzKCg==" length="62482912"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.55</title>
             <sparkle:version>180</sparkle:version>
             <sparkle:shortVersionString>8.11.55</sparkle:shortVersionString>
