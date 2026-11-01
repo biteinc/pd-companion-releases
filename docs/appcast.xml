@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.59</title>
+            <sparkle:version>184</sparkle:version>
+            <sparkle:shortVersionString>8.11.59</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Export a ZIP containing recent questions, public replies and accepted camera photos, alongside delivery details. The Slack /log command includes the same archive, making it easier to investigate photo questions.</p><p>The archive may contain private office information. Voice Assistant remains experimental and off by default. This adds investigation detail; it does not yet resolve every misunderstood photo.</p>]]></description>
+            <pubDate>Sun, 01 Nov 2026 12:30:19 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.59/PDCompanion-v8.11.59.dmg"
+                sparkle:edSignature="b4k3dWjU7R9oEJzklxOMyqweySN1Mz3T3gL23uMPJ9N9IFoY0kOrjxyovNK2d4KV3s2+LTev1KKEvgSNBabGCQ==" length="62537668"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.58</title>
             <sparkle:version>183</sparkle:version>
             <sparkle:shortVersionString>8.11.58</sparkle:shortVersionString>
