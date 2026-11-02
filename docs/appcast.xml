@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.63</title>
+            <sparkle:version>188</sparkle:version>
+            <sparkle:shortVersionString>8.11.63</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> With the updated iPad app, you can see the front camera while Tin Man announces a photo and counts down, making it easier to position the camera and frame the shot.</p><p>Voice Assistant remains experimental and off by default.</p>]]></description>
+            <pubDate>Mon, 02 Nov 2026 13:44:18 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.63/PDCompanion-v8.11.63.dmg"
+                sparkle:edSignature="jvkHzGU9Jo11+wbpr+2ZEChR2i4F16rKHNGNrj5maLr2YrWmFAD0/2RxRdVO6+3214T7SgczPhRH4kVi+DHDAg==" length="62554995"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.62</title>
             <sparkle:version>187</sparkle:version>
             <sparkle:shortVersionString>8.11.62</sparkle:shortVersionString>
