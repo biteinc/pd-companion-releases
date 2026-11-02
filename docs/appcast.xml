@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.62</title>
+            <sparkle:version>187</sparkle:version>
+            <sparkle:shortVersionString>8.11.62</sparkle:shortVersionString>
+            <description><![CDATA[<p><strong>Voice Assistant · Experimental Beta:</strong> Maintenance update with clearer setup messages when the assistant is not ready to answer.</p><p>Voice Assistant remains experimental and off by default.</p>]]></description>
+            <pubDate>Mon, 02 Nov 2026 10:00:42 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.62/PDCompanion-v8.11.62.dmg"
+                sparkle:edSignature="3oQj5dxye29Zhxj/HQXRLkciyOzgP/zcvLy7rKxQEVKzwYP8FSNARXYVclWjqAvwDp4lcJNnb6AU2HSiQDGGBA==" length="62553948"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.61</title>
             <sparkle:version>186</sparkle:version>
             <sparkle:shortVersionString>8.11.61</sparkle:shortVersionString>
