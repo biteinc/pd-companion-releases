@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.64</title>
+            <sparkle:version>189</sparkle:version>
+            <sparkle:shortVersionString>8.11.64</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Ask Tin Man to create a file and send it to the Slack channel chosen in Voice Assistant settings. Tin Man confirms after Slack responds; voice file uploads support one chosen channel.</p><p>Voice Assistant remains experimental and off by default.</p>]]></description>
+            <pubDate>Tue, 03 Nov 2026 09:13:21 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.64/PDCompanion-v8.11.64.dmg"
+                sparkle:edSignature="WekjfOI3x4dMWQBE1IVUzpViqNd5fm4FmmrIP8epQPyK8t90xWNmolUojdDffHiIZWLT0VoFqZFuGzTLR84KBQ==" length="62690749"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.63</title>
             <sparkle:version>188</sparkle:version>
             <sparkle:shortVersionString>8.11.63</sparkle:shortVersionString>
