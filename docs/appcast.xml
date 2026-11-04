@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.65</title>
+            <sparkle:version>190</sparkle:version>
+            <sparkle:shortVersionString>8.11.65</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p>Tin Man replies now show account-wide weekly AI allowance usage, reset time, and how recent the reading is.</p><h2>What’s fixed</h2><p>Fixed missing or incorrect weekly usage in /usage. Unavailable or outdated readings are clearly marked.</p>]]></description>
+            <pubDate>Wed, 04 Nov 2026 16:00:09 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.65/PDCompanion-v8.11.65.dmg"
+                sparkle:edSignature="zwN03DQG32eBkdxliAHoVG4sXvkaqUvz8aZqrlzO784U2yGRjV8utacgq9U1XyceswoDUt3tJiP8gu3AwB/zDA==" length="62685582"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.64</title>
             <sparkle:version>189</sparkle:version>
             <sparkle:shortVersionString>8.11.64</sparkle:shortVersionString>
