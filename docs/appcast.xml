@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.66</title>
+            <sparkle:version>191</sparkle:version>
+            <sparkle:shortVersionString>8.11.66</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p>Fixed updates getting stuck behind repeated incident and ticket checks. Once an update is ready, those checks pause while existing work finishes. Tin Man can still answer new questions during the wait.</p><p>Fixed the incident list appearing empty when switching between Active and Resolved during a refresh.</p>]]></description>
+            <pubDate>Wed, 04 Nov 2026 17:39:45 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.66/PDCompanion-v8.11.66.dmg"
+                sparkle:edSignature="JxftafHvvgBPKCTob5MoSrSiUkeMxBqajZMhCVy5RF9qx13WlwAP6QcJI+ZaziGSdLq7g3isxa6+3UvGYldkDQ==" length="62605739"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.65</title>
             <sparkle:version>190</sparkle:version>
             <sparkle:shortVersionString>8.11.65</sparkle:shortVersionString>
