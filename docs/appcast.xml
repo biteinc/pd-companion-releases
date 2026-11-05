@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.68</title>
+            <sparkle:version>193</sparkle:version>
+            <sparkle:shortVersionString>8.11.68</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Keep complete daily voice logs for today and the previous two days, including after restarting the app. Choose a day when exporting in Settings, or use /log to receive a separate ZIP for each day with activity.</p><h2>What’s fixed</h2><p>Fixed photo requests that stopped after showing the live camera preview without counting down or taking a photo. Longer spoken prompts and photo retakes now finish playback before the next step.</p>]]></description>
+            <pubDate>Thu, 05 Nov 2026 12:40:08 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.68/PDCompanion-v8.11.68.dmg"
+                sparkle:edSignature="G9OsipVPUevq6Z5PCnZZzFsGJ/h+7qkYxQW9O8uoNa3+XcFAoPAREIF6/8SmfpkX/TDBQgnGTIpHQdAO6q/PBw==" length="62650723"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.66</title>
             <sparkle:version>191</sparkle:version>
             <sparkle:shortVersionString>8.11.66</sparkle:shortVersionString>
