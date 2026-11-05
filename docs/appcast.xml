@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.70</title>
+            <sparkle:version>195</sparkle:version>
+            <sparkle:shortVersionString>8.11.70</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Tin Man waits for “Hey Tin Man” before accepting a new direction while working or speaking. Ignored speech shows a red wave and wake-word hint. The updated Tin Man iPad app removes repeated sounds around spoken sentences and keeps App Lock setup notices in admin mode.</p>]]></description>
+            <pubDate>Thu, 05 Nov 2026 15:42:13 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.70/PDCompanion-v8.11.70.dmg"
+                sparkle:edSignature="/QBPVesL/eZgnkoKMSVx7aEKR08NoiWjPiScGdqLRo/lp/0InbJRDxh1/4Vv1WBnju7cHO7xAYMkDWb9PTQwDA==" length="62716702"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.69</title>
             <sparkle:version>194</sparkle:version>
             <sparkle:shortVersionString>8.11.69</sparkle:shortVersionString>
