@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.69</title>
+            <sparkle:version>194</sparkle:version>
+            <sparkle:shortVersionString>8.11.69</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Subtitles fade after speaking, with an adjustable delay. The updated Tin Man iPad app plays short sounds when speech starts and stops, and makes speaking and wake-only states clearer. Say “Hey Tin Man” to interrupt a spoken answer and give a new direction; ordinary speech stays out of dictation while Tin Man talks.</p>]]></description>
+            <pubDate>Thu, 05 Nov 2026 14:44:09 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.69/PDCompanion-v8.11.69.dmg"
+                sparkle:edSignature="ux/YX1/1iTjtDf6GB3d7ScV7thvacDxf3JRGVfgEqs43Piq2wlIKkVEMhHbl7m1l9aTaeJcoPQmjKKVzYSH8AA==" length="62716732"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.68</title>
             <sparkle:version>193</sparkle:version>
             <sparkle:shortVersionString>8.11.68</sparkle:shortVersionString>
