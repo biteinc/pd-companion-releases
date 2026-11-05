@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.71</title>
+            <sparkle:version>196</sparkle:version>
+            <sparkle:shortVersionString>8.11.71</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Improved recovery from brief audio delays to reduce repeated server reconnections. With the updated Tin Man iPad app, the interruption hint appears only after ignored speech while Tin Man is thinking about a previous request, and disappears when it speaks.</p>]]></description>
+            <pubDate>Thu, 05 Nov 2026 16:33:02 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.71/PDCompanion-v8.11.71.dmg"
+                sparkle:edSignature="4z1eppbo1BivRzwBeKmyoSs266FAMvZbDdsO1jks94Q0F4lOHKEvReMyil3OwUsumMRXNIdcYCcQ3EhAH7HdDw==" length="62735139"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.70</title>
             <sparkle:version>195</sparkle:version>
             <sparkle:shortVersionString>8.11.70</sparkle:shortVersionString>
