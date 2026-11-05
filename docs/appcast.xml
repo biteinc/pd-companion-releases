@@ -6,6 +6,17 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.11.72</title>
+            <sparkle:version>197</sparkle:version>
+            <sparkle:shortVersionString>8.11.72</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p><strong>Voice Assistant · Experimental Beta:</strong> Improved “Hey Tin Man” interruption during thinking and speech. Old replies and waiting messages stay quiet while Tin Man listens for your new direction. A wake without a question uses your saved pause before replying “I’m listening.”</p>]]></description>
+            <pubDate>Thu, 05 Nov 2026 18:20:44 -0500</pubDate>
+            <enclosure
+                url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.11.72/PDCompanion-v8.11.72.dmg"
+                sparkle:edSignature="puVHVo+KgcD2/f4OOXAywevSNSuJLtZNy+szlMWp5FAH6e/N3wcnAHGKUNjov0P1ymIM+QLcvyDButaGNOKRCQ==" length="62738841"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.71</title>
             <sparkle:version>196</sparkle:version>
             <sparkle:shortVersionString>8.11.71</sparkle:shortVersionString>
