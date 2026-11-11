@@ -6,6 +6,14 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.12.0</title>
+            <sparkle:version>198</sparkle:version>
+            <sparkle:shortVersionString>8.12.0</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><p>Incident tickets created by Tin Man can automatically include the customer and site in Zendesk. Alerts covering several sites leave the site empty. Lookup problems are explained in the Slack thread while the ticket is still created.</p>]]></description>
+            <pubDate>Wed, 11 Nov 2026 18:45:10 -0500</pubDate>
+            <enclosure url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.12.0/PDCompanion-v8.12.0.dmg" sparkle:edSignature="ZsVgwJi7aBQB2UiUqGVz0ZlLOVmxUbJMlcqWVxyw0gmOxgivsD57SFO8xEqjfuou8AccvKBGpE19LULxJV/UCA==" length="62617053" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.11.72</title>
             <sparkle:version>197</sparkle:version>
             <sparkle:shortVersionString>8.11.72</sparkle:shortVersionString>
