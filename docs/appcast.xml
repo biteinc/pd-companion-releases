@@ -6,6 +6,14 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.12.1</title>
+            <sparkle:version>199</sparkle:version>
+            <sparkle:shortVersionString>8.12.1</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p>Fixed Tin Man continuing to work after /kill, including requests waiting to start. The command also works during other commands and stops work without waiting for Slack history to load. Use /kill all to remove queued follow-ups too.</p><p>An action already sent to another service, such as a content update in EloView, may still finish.</p>]]></description>
+            <pubDate>Fri, 13 Nov 2026 11:05:03 -0500</pubDate>
+            <enclosure url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.12.1/PDCompanion-v8.12.1.dmg" sparkle:edSignature="ugkVlLuJeNqvK85VdD8z0bYcQmiWm1xDnYvEG0i+8LGIpOVBscg09ML8ad/9DO3+8l0VpIqtiiWUto885iUPBw==" length="62729991" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.12.0</title>
             <sparkle:version>198</sparkle:version>
             <sparkle:shortVersionString>8.12.0</sparkle:shortVersionString>
