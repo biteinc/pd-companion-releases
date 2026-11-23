@@ -6,6 +6,14 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.12.3</title>
+            <sparkle:version>201</sparkle:version>
+            <sparkle:shortVersionString>8.12.3</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s fixed</h2><p>Fixed an issue where Tin Man could stop creating Zendesk tickets, attaching CSV reports, and replying to /log, even while ordinary chat still worked.</p>]]></description>
+            <pubDate>Mon, 23 Nov 2026 13:29:54 -0500</pubDate>
+            <enclosure url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.12.3/PDCompanion-v8.12.3.dmg" sparkle:edSignature="Sjsg9o/Wcq0WZx5RKX4Ug2QsGeqa43V5hrhM84b1PksGUBMJu7aL5RQGoTr3ex6Ke85dDRd/3KVZMTB2Sj1WAg==" length="61185690" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.12.2</title>
             <sparkle:version>200</sparkle:version>
             <sparkle:shortVersionString>8.12.2</sparkle:shortVersionString>
