@@ -6,6 +6,14 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.13.1</title>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>8.13.1</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><ul><li>Choose a separate Slack channel and who to notify when Tin Man detects a health problem.</li></ul><h2>What’s fixed</h2><ul><li>Fixed updates getting stuck waiting for background checks when no AI requests were running. Updates can now restart once current AI work and replies are complete.</li></ul>]]></description>
+            <pubDate>Mon, 23 Nov 2026 17:52:20 -0500</pubDate>
+            <enclosure url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.13.1/PDCompanion-v8.13.1.dmg" sparkle:edSignature="gMGRbq028mY493qJiNjTMUxqm+Ssw/n2yE2ShcMVtsIafCmuX1ydgZ6EUf37ieiiWNBzJTxzQNvY0CDu7CoTDg==" length="61175762" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.13.0</title>
             <sparkle:version>203</sparkle:version>
             <sparkle:shortVersionString>8.13.0</sparkle:shortVersionString>
