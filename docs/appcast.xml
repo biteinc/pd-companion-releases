@@ -6,6 +6,14 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.13.0</title>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>8.13.0</sparkle:shortVersionString>
+            <description><![CDATA[<h2>What’s new</h2><ul><li>Added health warnings when Tin Man goes 12 active hours without receiving new PagerDuty incidents, sending support notifications, or creating automatic Zendesk tickets.</li><li>Scheduled sleep, pauses, and disabled features are excluded from these checks. Each check warns once until activity returns.</li><li>Long-running AI warnings now start after 15 minutes.</li></ul>]]></description>
+            <pubDate>Mon, 23 Nov 2026 16:49:12 -0500</pubDate>
+            <enclosure url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.13.0/PDCompanion-v8.13.0.dmg" sparkle:edSignature="Q0AoMXjHSMERTa1oe6c27jHp39UsiRa9QdN4rz9eo+1HtAFGn1/6HP2Hy5QKML1s3m8neYxueSkPAwI+8/bHBg==" length="61193028" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.12.4</title>
             <sparkle:version>202</sparkle:version>
             <sparkle:shortVersionString>8.12.4</sparkle:shortVersionString>
