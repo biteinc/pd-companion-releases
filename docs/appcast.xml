@@ -6,6 +6,14 @@
         <description>PD Companion update feed</description>
         <language>en</language>
         <item>
+            <title>Version 8.12.4</title>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>8.12.4</sparkle:shortVersionString>
+            <description><![CDATA[<p>Maintenance release.</p><p>Removed an unused experimental option for combining Slack messages and its related health warning.</p>]]></description>
+            <pubDate>Mon, 23 Nov 2026 15:47:50 -0500</pubDate>
+            <enclosure url="https://github.com/biteinc/pd-companion-releases/releases/download/v8.12.4/PDCompanion-v8.12.4.dmg" sparkle:edSignature="Mhxy0LY5jNDHhyNh5z4NWXEaZRyDyO0CIqUWucESGSg3FTrXVes4fN4ozdhVlLNxZW/ht48ablzYN+j5IkIHAQ==" length="61196107" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 8.12.3</title>
             <sparkle:version>201</sparkle:version>
             <sparkle:shortVersionString>8.12.3</sparkle:shortVersionString>
